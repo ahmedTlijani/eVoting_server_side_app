@@ -8,4 +8,10 @@
 [Check the face checking api (Python)](https://github.com/ahmedTlijani/face_checking_app "Check the face checking api (Python)")
 
 
-
+* Technologies:
+	* Maven Project
+	* Apache Tomcat
+	* Spring boot
+	* Spring Mvc
+	* Hibernate
+	* MySQL
